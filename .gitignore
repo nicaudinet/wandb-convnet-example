@@ -1,0 +1,6 @@
+.venv
+artifacts
+data/MNIST/raw
+wandb
+initialised_model.pth
+trained_model.pth
